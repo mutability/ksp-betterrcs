@@ -1,5 +1,7 @@
-﻿BetterRCS
+BetterRCS
 0.1 - 2012/12/26
+
+Binary package: http://data.mutability.co.uk/ksp-betterrcs-0.1.0.0.zip
 
 This module is a plugin for Kerbal Space Program version 0.18.2.
 It provides a drop-in replacement for the default ModuleRCS module,
